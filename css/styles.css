@@ -39,9 +39,42 @@ nav {
 	float: top;
 }
 
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left:50%;
+}
+
+#nav ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+}
+
+#nav ul li a {
+  padding: 10px 25px;
+  display: block;
+  text-decoration: none;
+  color: #525CEB;
+}
+
+#nav ul li a:hover {
+  background-color: #525CEB;
+  color: #FFEB00;
+}
+
+
 #page-wrapper {
 	width: 960;
 	margin: 0 auto;
 	color: #577BC1
 }
 
+#footer {
+  background-color: #577BC1;
+  height: 80px;
+  clear: both;
+}
