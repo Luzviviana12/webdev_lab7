@@ -21,6 +21,15 @@ nav {
 	float: top;
 }
 
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: left;
+  position: relative;
+  left:50%;
+}
+
 th {
   font-family: "DM Serif Text", serif;
   font-weight: 400;
@@ -45,8 +54,6 @@ aside {
 	float: right;
 	width: 27%;
 	background-color: #344CB7;
-}
-
 }
 
 #footer {
