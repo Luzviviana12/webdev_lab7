@@ -1,10 +1,10 @@
 td, th {
 	border: 1px solid;
-	color: #1920E3;
+	color: #FFEB00;
   }
   
   body {
-  background-image: url(images/space.jpg);
+  background-color: #577BC1;
 }
 
 th {
@@ -17,7 +17,7 @@ h1 {
   font-family: "Badeen Display", system-ui;
   font-weight: 400;
   font-style: normal;
-  color: #BFE2E3
+  color: #FFEB00
 }
 
 td {
