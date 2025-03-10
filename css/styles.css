@@ -5,6 +5,7 @@ td, th {
   
   body {
   background-image: url("images/space.jpg");
+  background-repeat: no-repeat;
 }
 
 th {
@@ -17,6 +18,7 @@ h1 {
   font-family: "Badeen Display", system-ui;
   font-weight: 400;
   font-style: normal;
+  color: #BFE2E3
 }
 
 td {
