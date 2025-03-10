@@ -30,6 +30,12 @@ nav ul {
   left:50%;
 }
 
+#nav ul li {
+  float: left;
+  position: relative;
+  right: 50%;
+}
+
 th {
   font-family: "DM Serif Text", serif;
   font-weight: 400;
