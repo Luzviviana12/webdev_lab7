@@ -54,21 +54,22 @@ h1 {
   color: #FFEB00;
 }
 
-td, p, li {
+td, p, {
   font-family: "Tulpen One", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #344CB7;
 }
 
+li   {
+	font-family: "Tulpen One", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	color: #FFEB00;
+}
+
 aside {
 	float: right;
 	width: 15%;
 	background-color: #344CB7;
-}
-
-#footer {
-  background-color: #577BC1;
-  height: 80px;
-  clear: both;
 }
