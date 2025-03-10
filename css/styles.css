@@ -16,10 +16,10 @@ h1 {
   font-family: "Badeen Display", system-ui;
   font-weight: 400;
   font-style: normal;
-  color: #FFEB00
+  color: #FFEB00;
 }
 
-td {
+td, p {
   font-family: "Tulpen One", sans-serif;
   font-weight: 400;
   font-style: normal;
