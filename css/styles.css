@@ -25,15 +25,8 @@ td, p {
   font-style: normal;
 }
 
-main {
-	background-color: #577BC1;
-	float: left;
-	width: 73%
-	height: 800px;
-}
-
 aside {
-	float: left;
+	float: right;
 	width: 27%;
-	background-color: #000957;
+	background-color: #577BC1;
 }
