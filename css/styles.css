@@ -1,12 +1,16 @@
 td, th {
 	border: 1px solid;
+	color: #1920E3;
   }
   
-  #header h1 {
-  position: absolute;
-  left: 420px;
-  top:5px;
-  font-size: 6em;
-  font-family: 'Devonshire', cursive;
-  color: #1E31E3;
+.dm-serif-text-regular {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.dm-serif-text-regular-italic {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: italic;
 }
