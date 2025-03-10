@@ -1,11 +1,7 @@
 td, th {
 	border: 1px solid;
-	color: #FFEB00;
+	color: #577BC1;
   }
-  
-  body {
-  background-color: #577BC1;
-}
 
 th {
   font-family: "DM Serif Text", serif;
@@ -26,8 +22,15 @@ td {
   font-style: normal;
 }
 
-#side-content {
-  min-height: 150px;
-  width: 200px;
-  float: left;
+main {
+	background-color: #577BC1;
+	float: left;
+	width: 73%
+	height: 800px;
+}
+
+aside {
+	float: left;
+	width: 27%;
+	background-color: #000957;
 }
