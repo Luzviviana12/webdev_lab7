@@ -63,11 +63,18 @@ h1 {
   color: #FFEB00;
 }
 
-td, p, li {
+td, li {
   font-family: "Tulpen One", sans-serif;
   font-weight: 400;
   font-style: normal;
   color: #344CB7;
+}
+
+p {
+  font-family: "Tulpen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FFEB00;
 }
 
 aside {
