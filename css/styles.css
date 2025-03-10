@@ -62,7 +62,7 @@ td, p, li {
 }
 
 aside {
-	float: right;
+	float: left;
 	width: 20%;
 	background-color: #344CB7;
 }
