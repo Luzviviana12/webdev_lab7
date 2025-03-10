@@ -9,7 +9,7 @@ td, th {
 
 
 #page-wrapper {
-	width: 960;
+	width: 100%;
 	margin: 0 auto;
 	color: #577BC1
 }
@@ -38,7 +38,7 @@ nav ul {
 
 #nav ul li a:hover {
   background-color: #FFEB00;
-  color: #FFEB00;
+  color: #EEEEEE;
 }
 
 
