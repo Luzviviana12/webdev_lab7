@@ -28,12 +28,12 @@ nav ul {
   padding: 10px 25px;
   display: block;
   text-decoration: none;
-  color: #FFEB00;
+  color: #EEEEEE;
 }
 
 #nav ul li a:hover {
   background-color: #525CEB;
-  color: #FFEB00;
+  color: #EEEEEE;
 }
 
 
@@ -44,7 +44,7 @@ nav ul {
 
 td, th {
 	border: 2px solid;
-	color: #FFEB07;
+	color: #FFEB00;
   }
 
 th {
