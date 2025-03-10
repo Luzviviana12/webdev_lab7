@@ -3,6 +3,10 @@ td, th {
 	color: #1920E3;
   }
   
+  body {
+  background-image: url("images/space.jpg");
+}
+  
 .dm-serif-text-regular {
   font-family: "DM Serif Text", serif;
   font-weight: 400;
