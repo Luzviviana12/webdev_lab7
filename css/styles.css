@@ -38,7 +38,7 @@ nav ul {
 
 #nav ul li a:hover {
   background-color: #FFEB00;
-  color: #EEEEEE;
+  color: #FFEB00;
 }
 
 th {
@@ -63,7 +63,7 @@ td, p, li {
 
 aside {
 	float: right;
-	width: 27%;
+	width: 15%;
 	background-color: #344CB7;
 }
 
