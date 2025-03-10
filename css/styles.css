@@ -43,13 +43,13 @@ nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  float: left;
+  float: right;
   position: relative;
   left:50%;
 }
 
 #nav ul li {
-  float: left;
+  float: right;
   position: relative;
   right: 50%;
 }
