@@ -13,13 +13,13 @@ nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  float: right;
+  float: left;
   position: relative;
   left:50%;
 }
 
 #nav ul li {
-  float: right;
+  float: left;
   position: relative;
   right: 50%;
 }
@@ -28,12 +28,12 @@ nav ul {
   padding: 10px 25px;
   display: block;
   text-decoration: none;
-  color: #525CEB;
+  color: #0000;
 }
 
 #nav ul li a:hover {
   background-color: #525CEB;
-  color: #FFEB00;
+  color: #0000;
 }
 
 
@@ -44,7 +44,7 @@ nav ul {
 
 td, th {
 	border: 1px solid;
-	color: #344CB7;
+	color: #FFEB07;
   }
 
 th {
