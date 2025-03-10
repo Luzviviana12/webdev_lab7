@@ -36,6 +36,11 @@ nav ul {
   right: 50%;
 }
 
+#nav ul li a:hover {
+  background-color: #525CEB;
+  color: #EEEEEE;
+}
+
 th {
   font-family: "DM Serif Text", serif;
   font-weight: 400;
