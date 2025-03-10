@@ -7,7 +7,7 @@ td, th {
   background-image: url("images/space.jpg");
 }
 
-.dm-serif-text-regular {
+th {
   font-family: "DM Serif Text", serif;
   font-weight: 400;
   font-style: italic;
