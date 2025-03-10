@@ -3,7 +3,7 @@ body{
 }
 td, th {
 	border: 1px solid;
-	color: #577BC1;
+	color: #344CB7;
   }
 
 th {
@@ -28,7 +28,7 @@ td, p {
 aside {
 	float: right;
 	width: 27%;
-	background-color: #525CEB;
+	background-color: #344CB7;
 }
 
 nav {
@@ -42,3 +42,4 @@ nav {
 	margin: 0 auto;
 	color: #577BC1
 }
+
