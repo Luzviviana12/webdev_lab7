@@ -26,4 +26,8 @@ td {
   font-style: normal;
 }
 
-
+#side-content {
+  min-height: 150px;
+  width: 200px;
+  float: left;
+}
